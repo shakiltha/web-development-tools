@@ -12,6 +12,10 @@
 
 - Dark mode - [react-theme-switch-animation](https://github.com/MinhOmega/react-theme-switch-animation)
 
+#### Beautifully designed components
+
+- Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. [ui-shadcn-com](https://ui.shadcn.com/docs)
+
 #### Styling and Animations
 
 - aceternity - [aceternity](https://ui.aceternity.com/)
