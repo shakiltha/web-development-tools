@@ -52,3 +52,7 @@
 #### Awesome Python
 
 - frameworks, libraries, software and resources [python resources](https://github.com/vinta/awesome-python)
+
+#### Awesome Django
+
+- A curated lists of awesome things related to Django [awesome django](https://github.com/wsvincent/awesome-django)
