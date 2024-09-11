@@ -48,3 +48,7 @@
 #### Awesome NodeJS
 
 - books, blogs, articles, framework, driver [nodejs resources](https://github.com/sindresorhus/awesome-nodejs)
+
+#### Awesome Python
+
+- frameworks, libraries, software and resources [python resources](https://github.com/vinta/awesome-python)
