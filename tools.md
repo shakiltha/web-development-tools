@@ -44,3 +44,7 @@
 #### Awesome web development resources
 
 - web development resources - [web development resources](https://github.com/markodenic/web-development-resources?tab=readme-ov-file)
+
+#### Awesome NodeJS
+
+- books, blogs, articles, framework, driver [nodejs resources](https://github.com/sindresorhus/awesome-nodejs)
