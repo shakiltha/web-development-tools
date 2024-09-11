@@ -22,6 +22,7 @@
 - framer motion - [framer motion](https://www.framer.com/motion/)
 - animate.css - [animate.style](https://animate.style/)
 - wow.js - [wowjs.uk](https://wowjs.uk/)
+- react-lottie [lottie animation](https://github.com/chenqingspring/react-lottie?tab=readme-ov-file#readme)
 
 #### Awesome components
 
