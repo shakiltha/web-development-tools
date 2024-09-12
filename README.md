@@ -1,1 +1,1 @@
-## Web Development language, libraries, vs code extenstions list
+## Web Development tools, language, libraries, vs code extenstion etc.
