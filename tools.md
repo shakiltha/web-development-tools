@@ -57,3 +57,22 @@
 #### Awesome Django
 
 - A curated lists of awesome things related to Django [awesome django](https://github.com/wsvincent/awesome-django)
+
+#### WEB DEVELOPMENT VSCODE EXTENSION
+
+1. Code Spell Checker by street side software
+2. ES7 + React/Redux/React-native snippets by dsznajder
+3. ESLint by microsoft
+4. JavaScript (ES6) code snippets by charalampos karypidis
+5. Liver Server by ritwick dey
+6. Markdown Preview Enhanced by yiyi wang
+7. npm intellisense by christian kohler
+8. path intellisense by christian kohler
+9. prettier - code formatter by prettier.io
+10. Pylance by microsoft
+11. Python by microsoft
+12. Python Debugger by microsoft
+13. React Extension Pack by rajbir jawanda
+14. Tailwind CSS IntelliSense by tailwind labs
+15. Vitest by by vitest
+16. Vue - Official by vue
